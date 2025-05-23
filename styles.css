@@ -14,13 +14,14 @@ div {
     font-size: 20px;
 }
 
-#main-content {
+#navbar {
     font-size: 18px;
     padding: 16px;
     background-color: #87372b;
 }
 
 #header,
+#main-content,
 #footer {
     padding: 5px;
     color: white;
@@ -32,4 +33,12 @@ a {
     color: white;
 }
 
+#ingredients,
+#steps {
+    text-align: left;
+    background-color: tan;
+    color: black;
+    padding: 8px;
+    margin: 16px;
+}
 
