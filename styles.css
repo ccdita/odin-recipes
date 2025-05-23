@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Times New Roman", sans-serif;
+}
+
+div {
+    text-align: center;
+}
+
+#header {
+    font-size: 20px;
+}
+
+#main-content {
+    font-size: 18px;
+    padding: 16px;
+    background-color: #87372b;
+}
+
+#header,
+#footer {
+    padding: 5px;
+    color: white;
+    background-color: #d99545;
+}
+
+a {
+    padding: 8px;
+    color: white;
+}
+
+
